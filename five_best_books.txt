@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Books</title>
+    <style>
+        .book {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .book img {
+            max-width: 80px;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Best Books of ALL TIME!</h1>
+    <div class="book">
+        <img src="book1.jpg" alt="Book 1">
+        <p>1. Anna Karenina by Leo Tolstoy</p>
+    </div>
+    <div class="book">
+">
+        <img src="src="https://d3i5mgdwi2ze58.cloudfront.net/kv7bohlfznregsg7wuttncytwvvv"
+         " alt="Image of Anna Karenina" style="max-width: 100px;">
+
+        <p>2. Madame Bovary by Gustave Flaubert</p>
+<!DOCTYPE html>
+        <img src="src="https://d3i5mgdwi2ze58.cloudfront.net/rtw3xjyjbcouewfrbpz5lcx5e6yf" alt="Image of Madame Bovary" style="max-width: 100px;">
+    </div>
+    <div class="book">
+        <img src=<img class="https://d3i5mgdwi2ze58.cloudfront.net/hwi2qqngyicqz7s7ps4x4k1ei14k" alt="Image of War and Peace" style="max-width: 100px;">
+        <p>3. War and Peace by Leo Tolstoy</p>
+
+    </div>
+    <div class="book">
+        <img src="https://d3i5mgdwi2ze58.cloudfront.net/z3d1ro97lc1yd91yalvalbn2xcc5" alt="Image of The Great Gatsby " style="max-width: 100px;">
+        <p>4. The Great Gatsby by F. Scott Fitzgerald</p>
+    </div>
+    <div>
+        <img src="https://d3i5mgdwi2ze58.cloudfront.net/cuqzoi0t52xnb7cjhdzrfuc7rjj4" alt="Image of Lolita " style="max-width: 100px;">
+        <p>5. Lolita by Vladimir Nabokov</p>
+    </div>
+</body>
+</html>
+

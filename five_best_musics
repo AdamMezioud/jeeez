@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Best Rock Songs</title>
+    <style>
+      .song {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+      .song img {
+        max-width: 80px;
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Best Rock Songs of All Time</h1>
+    <div class="song">
+      <img src="https://chat.openai.com/Album1_URL" alt="Album 1" />
+      <p>Stairway to Heaven - Led Zeppelin - Album 1</p>
+    </div>
+    <div class="song">
+      <img src="https://chat.openai.com/Album2_URL" alt="Album 2" />
+      <p>Bohemian Rhapsody" - Queen - Album 2</p>
+    </div>
+    <div class="song">
+      <img src="https://chat.openai.com/Album3_URL" alt="Album 3" />
+      <p>Hotel California - Eagles - Album 3</p>
+    </div>
+    <div class="song">
+      <img src="https://chat.openai.com/Album4_URL" alt="Album 4" />
+      <p>magine - John Lennon - Album 4</p>
+    </div>
+    <div class="song">
+      <img src="https://chat.openai.com/Album5_URL" alt=Album 5" />
+      <p>Smells Like Teen Spirit - Nirvana - Album 5</p>
+    </div>
+  </body>
+</html>

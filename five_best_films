@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Best 5 Movies of All Time</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .movie-list {
+        list-style-type: none;
+        padding: 0;
+      }
+      .movie-item {
+        margin-bottom: 20px;
+      }
+      .movie-title {
+        font-weight: bold;
+        font-size: 1.2em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Best 5 Movies of All Time</h1>
+    <ul class="movie-list">
+      <li class="movie-item">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+          alt="Movie 1"
+        />
+        <p class="movie-title">The Godfather (1972)</p>
+      </li>
+      <li class="movie-item">
+        <img
+          src="https://www.imdb.com/title/tt0033467/mediaviewer/rm4104924416/?ref_=tt_ov_i"
+          alt="Movie 2"
+        />
+        <p class="movie-title">Citizen Kane (1941)</p>
+      </li>
+      <li class="movie-item">
+        <img
+          src="https://www.imdb.com/title/tt0108052/mediaviewer/rm4182864896/?ref_=tt_ov_i"
+          alt="Movie 3"
+        />
+        <p class="movie-title">Schindler's List (1993)</p>
+      </li>
+      <li class="movie-item">
+        <img
+          src="https://www.imdb.com/title/tt0111161/mediaviewer/rm3429555712/?ref_=tt_ov_i"
+          alt="Movie 4"
+        />
+        <p class="movie-title">The Shawshank Redemption (1994)</p>
+      </li>
+      <li class="movie-item">
+        <img
+          src="https://www.imdb.com/title/tt0034583/mediaviewer/rm1943303936/?ref_=tt_ov_i"
+          alt="Movie 5"
+        />
+        <p class="movie-title">Casablanca (1942)</p>
+      </li>
+    </ul>
+  </body>
+</html>
