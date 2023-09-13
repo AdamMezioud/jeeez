@@ -1,0 +1,62 @@
+/* Header */
+
+.header {
+  background-color: #333;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  padding: 10px;
+}
+
+/* Navbar */
+
+.nav {
+  background-color: #444;
+  padding: 10px;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Section */
+
+.section {
+  background-color: #ccc;
+}
+
+/* Images */
+
+img {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Form */
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+/* Footer */
+
+footer {
+  background-color: #444;
+  color: #fff;
+  padding: 20px;
+}
